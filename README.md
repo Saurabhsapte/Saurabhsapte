@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Android, Kotlin**
 
-- 👨‍💻 All of my projects are available at [github.com/Saurabhsapte](github.com/Saurabhsapte?tab=repositories)
+- 👨‍💻 All of my projects are available at [github.com/Saurabhsapte](?tab=repositories)
 
 - 💬 Ask me about **Java,Spring,Angular,React etc.**
 
