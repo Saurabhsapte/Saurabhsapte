@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/Saurabhsapte](github.com/Saurabhsapte?tab=repositories)
 
-- 💬 Ask me about **Java,Spring,Angular,React etc.**
+- 💬 Ask me about **Java,Spring,Microservices,Angular,React,Devops etc.**
 
 - 📫 How to reach me **saptesaurabh@gmail.com**
 
