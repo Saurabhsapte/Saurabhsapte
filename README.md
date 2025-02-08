@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhsapte&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhsapte" /> </p>
 
-- 🌱 I’m currently learning **Android, Kotlin**
+- 🌱 I’m currently learning **Python, GenAI**
 
 - 👨‍💻 All of my projects are available at [github.com/Saurabhsapte](github.com/Saurabhsapte?tab=repositories)
 
